@@ -1,0 +1,117 @@
+candy-mountain-massacre/
+│
+├── README.md
+├── START_HERE.md
+├── CHANGELOG.md
+├── .gitignore
+│
+├── 00_admin/
+│   ├── campaign_status.md
+│   ├── content_boundaries.md
+│   ├── source_index.md
+│   └── terminology_quick_reference.md
+│
+├── 01_live_state/
+│   ├── current_state.md
+│   ├── session_log.md
+│   ├── open_threads.md
+│   ├── discovered_routes.md
+│   ├── ascent_renown.md
+│   └── clocks_and_pressures.md
+│
+├── 02_player_characters/
+│   ├── README.md
+│   ├── active/
+│   │   ├── pc_name.md
+│   │   └── pc_name.md
+│   ├── retired/
+│   └── dead_or_lost/
+│
+├── 03_campaign_core/
+│   ├── campaign_overview.md
+│   ├── dark_fort_campaign_additions.md
+│   ├── jawbreaker_procedure.md
+│   ├── sweet_spot_procedure.md
+│   ├── elevator_procedure.md
+│   ├── ascent_renown_procedure.md
+│   └── mystery_protocol.md
+│
+├── 04_regions/
+│   ├── 01_opened_works/
+│   │   ├── region_overview.md
+│   │   ├── clusters/
+│   │   ├── npc_notes/
+│   │   └── location_notes/
+│   ├── 02_confectionary_underworks/
+│   │   ├── region_overview.md
+│   │   ├── clusters/
+│   │   ├── npc_notes/
+│   │   └── location_notes/
+│   ├── 03_broken_interior/
+│   │   ├── region_overview.md
+│   │   ├── clusters/
+│   │   ├── npc_notes/
+│   │   └── location_notes/
+│   └── 04_crown_of_cake/
+│       ├── region_overview.md
+│       ├── clusters/
+│       ├── npc_notes/
+│       └── location_notes/
+│
+├── 05_npcs/
+│   ├── recurring_npcs.md
+│   ├── climber_crews.md
+│   ├── company_remnants.md
+│   ├── mountain_inhabitants.md
+│   ├── merchants_and_guides.md
+│   └── missing_dead_and_changed.md
+│
+├── 06_adventure_engine/
+│   ├── current_fronts.md
+│   ├── active_mysteries.md
+│   ├── clue_ledger.md
+│   ├── encounter_seeds.md
+│   ├── room_seeds.md
+│   ├── boss_seeds.md
+│   ├── elevator_events.md
+│   ├── broadcast_events.md
+│   └── sweet_spot_events.md
+│
+├── 07_game_content/
+│   ├── monsters/
+│   ├── bosses/
+│   ├── hazards_and_traps/
+│   ├── gear_and_relics/
+│   ├── magic_and_recipes/
+│   ├── treasure_and_cake/
+│   └── random_tables/
+│
+├── 08_bubblegum_city/
+│   ├── baxter_gate.md
+│   ├── ascent_wall.md
+│   ├── city_npcs.md
+│   ├── public_rumors.md
+│   ├── media_and_broadcasts.md
+│   └── outside_pressure.md
+│
+├── 09_templates/
+│   ├── character_template.md
+│   ├── npc_template.md
+│   ├── cluster_template.md
+│   ├── level_template.md
+│   ├── boss_template.md
+│   ├── session_template.md
+│   ├── clue_template.md
+│   ├── ascent_claim_template.md
+│   └── sweet_spot_template.md
+│
+├── 10_archive/
+│   ├── completed_clusters/
+│   ├── resolved_npcs/
+│   ├── retired_content/
+│   └── old_session_states/
+│
+└── assets/
+    ├── maps/
+    ├── handouts/
+    └── original_art/
